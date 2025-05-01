@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is Newton's First Law also known as?",
+    "options": {
+      "A": "Law of Acceleration",
+      "B": "Law of Inertia",
+      "C": "Law of Action-Reaction",
+      "D": "Law of Force"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which of the following is an example of Newton's Second Law?",
+    "options": {
+      "A": "A book remains at rest unless moved.",
+      "B": "A rocket launches into space.",
+      "C": "A raindrop falls to the ground.",
+      "D": "A person jumps off a boat."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What does Newton's Third Law state?",
+    "options": {
+      "A": "Objects in motion stay in motion.",
+      "B": "Acceleration depends on mass and force.",
+      "C": "For every action, there is an equal and opposite reaction.",
+      "D": "An object will not change its state of motion."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What unit is used to measure force?",
+    "options": {
+      "A": "Joule",
+      "B": "Newton",
+      "C": "Meter",
+      "D": "Kilogram"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a force of 10 N is applied to a mass of 2 kg, what is the acceleration?",
+    "options": {
+      "A": "5 m/s\u00b2",
+      "B": "10 m/s\u00b2",
+      "C": "2 m/s\u00b2",
+      "D": "20 m/s\u00b2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which law explains why passengers lurch forward in a car when it suddenly stops?",
+    "options": {
+      "A": "Newton's First Law",
+      "B": "Newton's Second Law",
+      "C": "Newton's Third Law",
+      "D": "Law of Universal Gravitation"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "In which scenario does the concept of inertia play a critical role?",
+    "options": {
+      "A": "When a ball is thrown.",
+      "B": "When an object is in free fall.",
+      "C": "When an object resists changes in its motion.",
+      "D": "When a car is accelerating."
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What factor does NOT affect an object's inertia?",
+    "options": {
+      "A": "Mass",
+      "B": "Velocity",
+      "C": "Shape",
+      "D": "Material"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "If a 5 kg object is moving at a velocity of 10 m/s, what is its momentum?",
+    "options": {
+      "A": "50 kg\u00b7m/s",
+      "B": "5 kg\u00b7m/s",
+      "C": "10 kg\u00b7m/s",
+      "D": "15 kg\u00b7m/s"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Which of the following is NOT a type of force?",
+    "options": {
+      "A": "Friction",
+      "B": "Gravity",
+      "C": "Velocity",
+      "D": "Tension"
+    },
+    "answer": "C"
+  }
+]
