@@ -211,7 +211,7 @@ class MCQValidator:
             if q["question"].strip().lower() in duplicate_questions:
                 q["validation"]["status"] = "Failed"
                 q["validation"]["errors"].append("Duplicate question detected")
-                q["validation"]["suggestions"]["question"] = ["Consider rephrasing to make unique"]
+                q["validation"]["suggestions"]["question"] = ["This question and type of this questions already exits so make new question on class 9th law of motion"]
             
             # Check for duplicate options
             dup_options = self.check_duplicate_options(q["options"])

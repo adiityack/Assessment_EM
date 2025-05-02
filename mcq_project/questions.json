@@ -7,96 +7,156 @@
       "C": "Law of Action-Reaction",
       "D": "Law of Force"
     },
-    "answer": "B"
-  },
-  {
-    "question": "Which of the following is an example of Newton's Second Law?",
-    "options": {
-      "A": "A book remains at rest unless moved.",
-      "B": "A rocket launches into space.",
-      "C": "A raindrop falls to the ground.",
-      "D": "A person jumps off a boat."
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
     },
-    "answer": "B"
+    "revised": false
   },
   {
-    "question": "What does Newton's Third Law state?",
+    "question": "Which of the following is a unit of force?",
     "options": {
-      "A": "Objects in motion stay in motion.",
-      "B": "Acceleration depends on mass and force.",
-      "C": "For every action, there is an equal and opposite reaction.",
-      "D": "An object will not change its state of motion."
-    },
-    "answer": "C"
-  },
-  {
-    "question": "What unit is used to measure force?",
-    "options": {
-      "A": "Joule",
+      "A": "Kilogram",
       "B": "Newton",
-      "C": "Meter",
-      "D": "Kilogram"
+      "C": "Pascal",
+      "D": "Joule"
     },
-    "answer": "B"
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   },
   {
-    "question": "If a force of 10 N is applied to a mass of 2 kg, what is the acceleration?",
+    "question": "What does the second law of motion state?",
     "options": {
-      "A": "5 m/s\u00b2",
-      "B": "10 m/s\u00b2",
-      "C": "2 m/s\u00b2",
-      "D": "20 m/s\u00b2"
+      "A": "An object at rest stays at rest.",
+      "B": "Force equals mass times acceleration.",
+      "C": "For every action, there is an equal and opposite reaction.",
+      "D": "Energy can neither be created nor destroyed."
     },
-    "answer": "A"
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   },
   {
-    "question": "Which law explains why passengers lurch forward in a car when it suddenly stops?",
+    "question": "If a 10 kg object is accelerated at 2 m/s\u00b2, what is the force applied?",
     "options": {
-      "A": "Newton's First Law",
-      "B": "Newton's Second Law",
-      "C": "Newton's Third Law",
-      "D": "Law of Universal Gravitation"
+      "A": "5 N",
+      "B": "10 N",
+      "C": "20 N",
+      "D": "30 N"
     },
-    "answer": "A"
+    "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   },
   {
-    "question": "In which scenario does the concept of inertia play a critical role?",
+    "question": "What is the term for the resistance of an object to change its state of motion?",
     "options": {
-      "A": "When a ball is thrown.",
-      "B": "When an object is in free fall.",
-      "C": "When an object resists changes in its motion.",
-      "D": "When a car is accelerating."
+      "A": "Momentum",
+      "B": "Inertia",
+      "C": "Acceleration",
+      "D": "Velocity"
     },
-    "answer": "C"
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   },
   {
-    "question": "What factor does NOT affect an object's inertia?",
+    "question": "According to Newton's Third Law of Motion, when you exert a force on an object, that object exerts an equal and opposite force back on you. What happens when you push against a wall?",
     "options": {
-      "A": "Mass",
-      "B": "Velocity",
-      "C": "Shape",
-      "D": "Material"
+      "A": "The wall pushes back with an equal force.",
+      "B": "The wall moves towards you.",
+      "C": "The wall stays still.",
+      "D": "The wall crushes your hand."
     },
-    "answer": "B"
+    "answer": "A",
+    "revised": false,
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    }
   },
   {
-    "question": "If a 5 kg object is moving at a velocity of 10 m/s, what is its momentum?",
+    "question": "What is the relationship between mass and acceleration in Newton\u2019s Second Law?",
     "options": {
-      "A": "50 kg\u00b7m/s",
-      "B": "5 kg\u00b7m/s",
-      "C": "10 kg\u00b7m/s",
-      "D": "15 kg\u00b7m/s"
+      "A": "Directly proportional",
+      "B": "Inversely proportional",
+      "C": "Constant",
+      "D": "Diminishing"
     },
-    "answer": "A"
+    "answer": "A",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   },
   {
-    "question": "Which of the following is NOT a type of force?",
+    "question": "Which of the following best describes friction?",
     "options": {
-      "A": "Friction",
-      "B": "Gravity",
-      "C": "Velocity",
-      "D": "Tension"
+      "A": "A force that opens doors.",
+      "B": "A force that opposes motion.",
+      "C": "A force that accelerates objects.",
+      "D": "A force that causes objects to collide."
     },
-    "answer": "C"
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "According to Newton's Third Law of Motion, when you exert a force on an object, that object:",
+    "options": {
+      "A": "Exerts an equal and opposite force back on you.",
+      "B": "Remains stationary.",
+      "C": "Moves in the direction of the force.",
+      "D": "Absorbs the force without any reaction."
+    },
+    "answer": "A",
+    "revised": true,
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    }
+  },
+  {
+    "question": "What happens to an object's motion when no net force acts on it?",
+    "options": {
+      "A": "It changes direction.",
+      "B": "It accelerates.",
+      "C": "It stays in its current state.",
+      "D": "It gains speed."
+    },
+    "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
   }
 ]
