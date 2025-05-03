@@ -16,12 +16,50 @@
     "revised": false
   },
   {
-    "question": "According to Newton's Second Law, force is equal to mass times what?",
+    "question": "What is the formula for calculating force as described by Newton's Second Law of Motion?",
     "options": {
-      "A": "Distance",
-      "B": "Speed",
-      "C": "Acceleration",
-      "D": "Velocity"
+      "A": "F = m \u00d7 a",
+      "B": "F = m + a",
+      "C": "F = m - a",
+      "D": "F = m / a"
+    },
+    "answer": "A",
+    "revised": true
+  },
+  {
+    "question": "What is the formula for calculating force according to Newton's Second Law of Motion?",
+    "options": {
+      "A": "F = m \u00d7 a",
+      "B": "F = m + a",
+      "C": "F = m - a",
+      "D": "F = m / a"
+    },
+    "answer": "A",
+    "revised": true
+  },
+  {
+    "question": "What happens to the momentum of an object if no external forces act on it?",
+    "options": {
+      "A": "It decreases",
+      "B": "It remains constant",
+      "C": "It increases",
+      "D": "It becomes zero"
+    },
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "Which law states that every action has an equal and opposite reaction?",
+    "options": {
+      "A": "Newton's First Law",
+      "B": "Newton's Second Law",
+      "C": "Newton's Third Law",
+      "D": "Newton's Law of Gravitation"
     },
     "answer": "C",
     "validation": {
@@ -32,12 +70,12 @@
     "revised": false
   },
   {
-    "question": "What does the term 'net force' mean?",
+    "question": "If an object is in motion, it will remain in motion unless acted upon by a net external force. This statement describes which of Newton's Laws?",
     "options": {
-      "A": "The total force acting on an object",
-      "B": "The force applied by an object",
-      "C": "The frictional force opposed to movement",
-      "D": "The gravitational force on an object"
+      "A": "First Law",
+      "B": "Second Law",
+      "C": "Third Law",
+      "D": "Law of Universal Gravitation"
     },
     "answer": "A",
     "validation": {
@@ -48,110 +86,62 @@
     "revised": false
   },
   {
-    "question": "In terms of motion, what does inertia depend on?",
-    "options": {
-      "A": "Force applied",
-      "B": "Mass of the object",
-      "C": "Speed of the object",
-      "D": "Shape of the object"
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "If an object's mass doubles, what happens to its acceleration if the same force is applied?",
-    "options": {
-      "A": "It doubles",
-      "B": "It halves",
-      "C": "It stays the same",
-      "D": "It triples"
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "Which of the following best describes Newton's Third Law?",
-    "options": {
-      "A": "An object at rest stays at rest",
-      "B": "Force equals mass times acceleration",
-      "C": "For every action, there is an equal and opposite reaction",
-      "D": "The total momentum of a closed system remains constant"
-    },
-    "answer": "C",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "What effect does friction have on a moving object?",
-    "options": {
-      "A": "Increases its speed",
-      "B": "Decreases its speed",
-      "C": "Has no effect on speed",
-      "D": "Causes it to accelerate indefinitely"
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "What is the unit of force in the metric system?",
-    "options": {
-      "A": "Kilogram",
-      "B": "Meter",
-      "C": "Newton",
-      "D": "Joule"
-    },
-    "answer": "C",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "What happens when two objects collide inelastic fashion?",
-    "options": {
-      "A": "They bounce off each other without any deformation",
-      "B": "They stick together and some kinetic energy is lost",
-      "C": "They completely lose their speed",
-      "D": "They explode on impact"
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "Which quantity is conserved in a closed system according to the laws of motion?",
+    "question": "Which quantity is represented by the product of mass and velocity?",
     "options": {
       "A": "Force",
-      "B": "Mass",
-      "C": "Energy",
-      "D": "Momentum"
+      "B": "Work",
+      "C": "Momentum",
+      "D": "Energy"
     },
-    "answer": "D",
+    "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "What unit is force measured in?",
+    "options": {
+      "A": "Kilograms",
+      "B": "Meters per second",
+      "C": "Newtons",
+      "D": "Joules"
+    },
+    "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "Which situation best illustrates Newton's Second Law?",
+    "options": {
+      "A": "A heavier object requires more force to move than a lighter one.",
+      "B": "A car is at rest until the engine is started.",
+      "C": "A person jumps off a small boat, causing it to move in the opposite direction.",
+      "D": "A ball is kicked and rolls on the ground."
+    },
+    "answer": "A",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "In which scenario will the net force be zero?",
+    "options": {
+      "A": "A car accelerating on a road",
+      "B": "A ball thrown upward",
+      "C": "A parked car",
+      "D": "A bike coasting down a hill"
+    },
+    "answer": "C",
     "validation": {
       "status": "Passed",
       "errors": [],

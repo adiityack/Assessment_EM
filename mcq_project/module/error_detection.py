@@ -201,7 +201,8 @@ class MCQValidator:
 
 def main():
     # Correct the file path for questions.json
-    QUESTION_FILE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..', 'questions.json'))
+    QUESTION_FILE_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'questions.json'))
+
     
     # Load questions
     if not os.path.exists(QUESTION_FILE_PATH):
