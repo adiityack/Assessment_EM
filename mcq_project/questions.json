@@ -16,62 +16,14 @@
     "revised": false
   },
   {
-    "question": "Which of the following is a unit of force?",
+    "question": "According to Newton's Second Law, force is equal to mass times what?",
     "options": {
-      "A": "Kilogram",
-      "B": "Newton",
-      "C": "Pascal",
-      "D": "Joule"
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "What does the second law of motion state?",
-    "options": {
-      "A": "An object at rest stays at rest.",
-      "B": "Force equals mass times acceleration.",
-      "C": "For every action, there is an equal and opposite reaction.",
-      "D": "Energy can neither be created nor destroyed."
-    },
-    "answer": "B",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "If a 10 kg object is accelerated at 2 m/s\u00b2, what is the force applied?",
-    "options": {
-      "A": "5 N",
-      "B": "10 N",
-      "C": "20 N",
-      "D": "30 N"
-    },
-    "answer": "C",
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    },
-    "revised": false
-  },
-  {
-    "question": "What is the term for the resistance of an object to change its state of motion?",
-    "options": {
-      "A": "Momentum",
-      "B": "Inertia",
+      "A": "Distance",
+      "B": "Speed",
       "C": "Acceleration",
       "D": "Velocity"
     },
-    "answer": "B",
+    "answer": "C",
     "validation": {
       "status": "Passed",
       "errors": [],
@@ -80,28 +32,12 @@
     "revised": false
   },
   {
-    "question": "According to Newton's Third Law of Motion, when you exert a force on an object, that object exerts an equal and opposite force back on you. What happens when you push against a wall?",
+    "question": "What does the term 'net force' mean?",
     "options": {
-      "A": "The wall pushes back with an equal force.",
-      "B": "The wall moves towards you.",
-      "C": "The wall stays still.",
-      "D": "The wall crushes your hand."
-    },
-    "answer": "A",
-    "revised": false,
-    "validation": {
-      "status": "Passed",
-      "errors": [],
-      "suggestions": "No suggestions"
-    }
-  },
-  {
-    "question": "What is the relationship between mass and acceleration in Newton\u2019s Second Law?",
-    "options": {
-      "A": "Directly proportional",
-      "B": "Inversely proportional",
-      "C": "Constant",
-      "D": "Diminishing"
+      "A": "The total force acting on an object",
+      "B": "The force applied by an object",
+      "C": "The frictional force opposed to movement",
+      "D": "The gravitational force on an object"
     },
     "answer": "A",
     "validation": {
@@ -112,12 +48,12 @@
     "revised": false
   },
   {
-    "question": "Which of the following best describes friction?",
+    "question": "In terms of motion, what does inertia depend on?",
     "options": {
-      "A": "A force that opens doors.",
-      "B": "A force that opposes motion.",
-      "C": "A force that accelerates objects.",
-      "D": "A force that causes objects to collide."
+      "A": "Force applied",
+      "B": "Mass of the object",
+      "C": "Speed of the object",
+      "D": "Shape of the object"
     },
     "answer": "B",
     "validation": {
@@ -128,30 +64,94 @@
     "revised": false
   },
   {
-    "question": "According to Newton's Third Law of Motion, when you exert a force on an object, that object:",
+    "question": "If an object's mass doubles, what happens to its acceleration if the same force is applied?",
     "options": {
-      "A": "Exerts an equal and opposite force back on you.",
-      "B": "Remains stationary.",
-      "C": "Moves in the direction of the force.",
-      "D": "Absorbs the force without any reaction."
+      "A": "It doubles",
+      "B": "It halves",
+      "C": "It stays the same",
+      "D": "It triples"
     },
-    "answer": "A",
-    "revised": true,
+    "answer": "B",
     "validation": {
       "status": "Passed",
       "errors": [],
       "suggestions": "No suggestions"
-    }
+    },
+    "revised": false
   },
   {
-    "question": "What happens to an object's motion when no net force acts on it?",
+    "question": "Which of the following best describes Newton's Third Law?",
     "options": {
-      "A": "It changes direction.",
-      "B": "It accelerates.",
-      "C": "It stays in its current state.",
-      "D": "It gains speed."
+      "A": "An object at rest stays at rest",
+      "B": "Force equals mass times acceleration",
+      "C": "For every action, there is an equal and opposite reaction",
+      "D": "The total momentum of a closed system remains constant"
     },
     "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "What effect does friction have on a moving object?",
+    "options": {
+      "A": "Increases its speed",
+      "B": "Decreases its speed",
+      "C": "Has no effect on speed",
+      "D": "Causes it to accelerate indefinitely"
+    },
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "What is the unit of force in the metric system?",
+    "options": {
+      "A": "Kilogram",
+      "B": "Meter",
+      "C": "Newton",
+      "D": "Joule"
+    },
+    "answer": "C",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "What happens when two objects collide inelastic fashion?",
+    "options": {
+      "A": "They bounce off each other without any deformation",
+      "B": "They stick together and some kinetic energy is lost",
+      "C": "They completely lose their speed",
+      "D": "They explode on impact"
+    },
+    "answer": "B",
+    "validation": {
+      "status": "Passed",
+      "errors": [],
+      "suggestions": "No suggestions"
+    },
+    "revised": false
+  },
+  {
+    "question": "Which quantity is conserved in a closed system according to the laws of motion?",
+    "options": {
+      "A": "Force",
+      "B": "Mass",
+      "C": "Energy",
+      "D": "Momentum"
+    },
+    "answer": "D",
     "validation": {
       "status": "Passed",
       "errors": [],
