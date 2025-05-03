@@ -1,4 +1,3 @@
-# mcq_project/fetch_mcq/test_main.py
 
 import pytest
 from unittest.mock import patch, Mock
